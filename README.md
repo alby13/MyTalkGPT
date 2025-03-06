@@ -1,6 +1,12 @@
 # MyTalkGPT
 [![Python Version](https://img.shields.io/badge/python-3.10%2B-blue)](https://www.python.org/downloads/)
 
+<br>
+
+<img src="https://github.com/alby13/MyTalkGPT/blob/main/running-screenshot.png">
+
+<br>
+
 Train Your Own LLM - Simple! Easy!
 
 Artificial Intelligence training world uses a lot of words. 
@@ -8,8 +14,6 @@ Artificial Intelligence training world uses a lot of words.
 LLM Training programs try to reproduce complicated or advanced AI models.
 
 MyTalkGPT is a training program that is easy to understand and simplified from a full production ChatGPT Large Language Model.
-
-<br>
 
 ### Main Program Functions:
 
