@@ -15,6 +15,8 @@ LLM Training programs try to reproduce complicated or advanced AI models.
 
 MyTalkGPT is a training program that is easy to understand and simplified from a full production ChatGPT Large Language Model.
 
+<br>
+
 ### Main Program Functions:
 
 Configuration: Creates a GPTConfig object to store model hyperparameters.
